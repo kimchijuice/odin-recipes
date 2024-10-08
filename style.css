@@ -1,0 +1,35 @@
+h1 {
+    text-align: center;
+    font-weight: 800px;
+    font-family: 'Courier New', Courier, monospace;
+    color: aquamarine;
+}
+
+a {
+    color: lightcoral;
+    text-decoration: none;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+
+.header {
+    /* padding: 3px; */
+    /* background-color: lightsalmon; */
+}
+
+.img-row {
+    display: flex;
+    background-color: beige;
+}
+
+.img-column {
+    flex: 33.33%;
+    padding: 5px;
+    text-align: center;
+    /* border-color: lightseagreen; */
+    /* border-style: solid; */
+    /* border-radius: 20px; */
+}

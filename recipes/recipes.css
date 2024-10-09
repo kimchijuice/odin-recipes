@@ -1,0 +1,73 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+h1 {
+    text-align: center;
+    color: olivedrab;
+}
+
+h2 {
+    color: palevioletred;
+}
+
+h3 {
+    color:rgb(92, 92, 5);
+}
+
+
+#hero-img {
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+
+.body {
+    padding: 20px;
+    margin-bottom: 100px;
+}
+
+.description {
+    background-color: bisque;
+    padding: 30px;
+}
+
+.ingredients {
+    width: 30%;
+    float: left;
+    height: 400px;
+    /* background-color: blue; */
+    margin-right: 5%;
+    padding: 10px;
+    border: 3px solid rgb(207, 145, 63);
+}
+
+.steps {
+    width: 60%;
+    float: left;
+    height: 400px;
+    /* background-color: green; */
+    border: 3px solid rgb(83, 53, 83);
+    padding: 10px;
+    margin-bottom: 60px;
+}
+
+#home {
+    display: block;
+    margin: auto;
+    background-color: aquamarine;
+    color: antiquewhite;
+    height: auto;
+    width: 150px;
+    border-radius: 26px;
+    border-color: aquamarine;
+}
+
+#home-button {
+    text-decoration: none;
+    font-size: 16px;
+    color: rgb(172, 29, 172);
+    
+}

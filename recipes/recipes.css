@@ -37,7 +37,7 @@ h3 {
 .ingredients {
     width: 30%;
     float: left;
-    height: 400px;
+    height: 500px;
     /* background-color: blue; */
     margin-right: 5%;
     padding: 10px;
@@ -47,7 +47,7 @@ h3 {
 .steps {
     width: 60%;
     float: left;
-    height: 400px;
+    height: 500px;
     /* background-color: green; */
     border: 3px solid rgb(83, 53, 83);
     padding: 10px;
